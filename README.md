@@ -1,4 +1,4 @@
-### Feature Engineering Pipeline
+### Feature Engineering 
 
 This repository acts as a dedicated workspace for comprehensive **Feature Engineering methodologies**. The code focuses on transforming raw data into high-quality predictive inputs, significantly improving the performance, accuracy, and generalization capability of machine learning algorithms. 
 
